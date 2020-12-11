@@ -1,0 +1,6 @@
+com/TPJEE/JDBCORMSingleton/WEB/model/ProductModel.class
+com/TPJEE/JDBCORMSingleton/BO/entities/Product.class
+com/TPJEE/JDBCORMSingleton/WEB/controller/ProductController.class
+com/TPJEE/JDBCORMSingleton/DAO/SingletonConnection.class
+com/TPJEE/JDBCORMSingleton/DAO/IProductDAO.class
+com/TPJEE/JDBCORMSingleton/DAO/ProductDAOImpl.class

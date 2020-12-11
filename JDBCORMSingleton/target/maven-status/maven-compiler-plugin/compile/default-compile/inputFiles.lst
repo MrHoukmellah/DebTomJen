@@ -1,0 +1,6 @@
+/home/houkmellah/eclipse-workspace/JDBCORMSingleton/src/main/java/com/TPJEE/JDBCORMSingleton/DAO/IProductDAO.java
+/home/houkmellah/eclipse-workspace/JDBCORMSingleton/src/main/java/com/TPJEE/JDBCORMSingleton/WEB/model/ProductModel.java
+/home/houkmellah/eclipse-workspace/JDBCORMSingleton/src/main/java/com/TPJEE/JDBCORMSingleton/DAO/SingletonConnection.java
+/home/houkmellah/eclipse-workspace/JDBCORMSingleton/src/main/java/com/TPJEE/JDBCORMSingleton/WEB/controller/ProductController.java
+/home/houkmellah/eclipse-workspace/JDBCORMSingleton/src/main/java/com/TPJEE/JDBCORMSingleton/BO/entities/Product.java
+/home/houkmellah/eclipse-workspace/JDBCORMSingleton/src/main/java/com/TPJEE/JDBCORMSingleton/DAO/ProductDAOImpl.java
