@@ -1,0 +1,113 @@
+{ "banques" :
+	[
+		{
+			"nom" : "Crédit du maroc",																	
+			"typesCredits" : [                                                 
+				{
+					"nomCredit" : "Credit immobilier",
+					"taux" : "5",
+					"limiteMois" : [12,300],
+					"limiteCredit" : [0,6000000],
+					"proprietes" : [
+						{
+							
+							"fromTo" : [0,1000000],
+							"typeFrais" : "value",
+							"valeurFrais" : "1000"
+						}
+					]
+					
+				},
+				{
+					"nomCredit" : "Credit Consommation",
+					"taux" : "8.5",
+					"limiteMois" : [12,84],
+					"limiteCredit" : [0,300000],
+					"proprietes" : [
+						{	
+							
+							"fromTo" : [0,300000],
+							"typeFrais" : "value",
+							"valeurFrais" : "1000"
+						}
+					
+					]
+					
+				}
+		
+				
+			
+			]
+			
+		
+		
+		
+		},
+		{
+			"nom" : "CIH",
+			"typesCredits" : [
+				{
+					"nomCredit" : "Credit immobilier",
+					"taux" : "4.5",
+					"limiteMois" : [12,300],
+					"limiteCredit" : [0,6000000],
+					"proprietes" : [
+						{
+							
+							"fromTo" : [0,1000000],
+							"typeFrais" : "value",
+							"valeurFrais" : "1000"
+						},
+						{
+							"fromTo" : [1000000,6000000],
+							"typeFrais" : "percentage",
+							"valeurFrais" : "1"
+						}
+					
+					]
+					
+				},
+				{
+					"nomCredit" : "Credit Consommation",
+					"taux" : "7",
+					"limiteMois" : [12,84],
+					"limiteCredit" : [0,300000],
+					"proprietes" : [
+						{	
+							
+							"fromTo" : [0,300000],
+							"typeFrais" : "value",
+							"valeurFrais" : "1000"
+						}
+					
+					]
+					
+				},
+				{
+					"nomCredit" : "Credit Jeune",
+					"taux" : "6.5",
+					"limiteMois" : [12,84],
+					"limiteCredit" : [0,300000],
+					"proprietes" : [
+						{	
+							
+							"fromTo" : [0,300000],
+							"typeFrais" : "value",
+							"valeurFrais" : "1000"
+						}
+					
+					]
+					
+				}
+		
+		
+				
+			
+			]
+			
+		
+		
+		
+		}
+	]
+}
